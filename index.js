@@ -1,5 +1,5 @@
 module.exports = {
   run: function() {
-    console.log('hello private npm!');
+    console.log('HELLO Private NPM!!!');
   }
 };
